@@ -1,0 +1,17 @@
+[Foreground]
+red=0
+grn=0
+blu=0
+
+[Background]
+red=255
+grn=255
+blu=255
+
+[Time]
+red=0
+grn=0
+blu=0
+
+[About]
+info=Copyright© 2000, Ablazen Art and Software, ablazen.com.
